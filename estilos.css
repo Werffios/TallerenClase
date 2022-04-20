@@ -1,9 +1,11 @@
 body {
     background-color: #e5e6d5;
 }
-.table-striped table-dark {
-	width: 50%;
-	height: 300px;
+
+
+.tablainfo{
+    width: 80%;
+    margin: auto;
 }
 
 section{
